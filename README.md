@@ -449,25 +449,25 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
+- [X] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
 
-- [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
+- [X] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+- [X] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
-- [ ] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+- [X] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 
-- [ ] [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
+- [X] [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-- [ ] [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+- [X] [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
-- [ ] [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
+- [X] [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
-- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [X] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [X] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-- [ ] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
+- [X] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
 - [ ] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
