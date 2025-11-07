@@ -491,7 +491,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [X] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
-- [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
+- [X] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
