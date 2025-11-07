@@ -483,13 +483,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-- [ ] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
+- [X] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
 - [ ] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
 - [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
-- [ ] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
+- [X] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
 - [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
@@ -497,17 +497,17 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 
-- [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
+- [X] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
 - [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [X] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
 - [ ] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
-- [ ] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
+- [X] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
 - [ ] [TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
@@ -515,11 +515,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
-- [ ] [TryHackMe | Couch](https://tryhackme.com/room/couch)
+- [X] [TryHackMe | Couch](https://tryhackme.com/room/couch)
 
-- [ ] [TryHackMe | Source](https://tryhackme.com/room/source)
+- [X] [TryHackMe | Source](https://tryhackme.com/room/source)
 
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+- [X] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
 - [ ] [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
 
@@ -533,19 +533,19 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
 
-- [ ] [TryHackMe | Startup](https://tryhackme.com/room/startup)
+- [X] [TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-- [ ] [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
+- [X] [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
 
 - [ ] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
-- [ ] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
+- [X] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
 
 - [ ] [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
-- [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
+- [X] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
-- [ ] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
+- [X] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
 - [ ] [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
 
