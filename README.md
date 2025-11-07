@@ -469,17 +469,17 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [X] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
-- [ ] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
+- [X] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
-- [ ] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+- [X] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
-- [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
+- [X] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-- [ ] [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
+- [X] [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [X] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-- [ ] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
+- [X] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
 
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
