@@ -481,7 +481,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [X] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
 
-- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+- [X] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
 - [X] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
